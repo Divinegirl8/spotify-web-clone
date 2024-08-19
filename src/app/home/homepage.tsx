@@ -4,7 +4,7 @@ const HomePage : React.FC = () =>{
     return(
         <main>
             <h1>i am home</h1>
-            <p>hi</p>
+
         </main>
     )
 }
